@@ -10,7 +10,7 @@ Python, pandas, NumPy, Matplotlib, Seaborn, Plotly
 Includes ecological and social indicator comparisons, trellis plots and a combined sandwich plot.
 
 ## Repository structure
-- `analysis.ipynb`: original student analysis notebook (personal student ID removed)
+- `analysis.ipynb`: original student analysis notebook
 - `data/`: input data used by the notebook
 
 ## Run locally
